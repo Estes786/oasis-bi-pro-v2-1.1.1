@@ -157,7 +157,7 @@ export default function PricingPage() {
             </li>
             <li className="flex items-start">
               <Check className="w-6 h-6 mr-2 flex-shrink-0 text-green-600" />
-              <span><strong>Xendit Compliant:</strong> Payment model yang approved oleh Xendit</span>
+              <span><strong>Doku Compliant:</strong> Payment model yang approved oleh Doku</span>
             </li>
           </ul>
         </div>
