@@ -206,7 +206,7 @@ export default function PricingPage() {
         {/* Payment Methods */}
         <div className="mt-16 bg-white rounded-xl shadow-lg p-8">
           <h2 className="text-3xl font-bold text-gray-900 mb-8 text-center">
-            💳 Metode Pembayaran - Powered by Xendit
+            💳 Metode Pembayaran - Powered by Doku
           </h2>
           <div className="grid md:grid-cols-3 gap-8">
             <div>
